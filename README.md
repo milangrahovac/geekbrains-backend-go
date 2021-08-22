@@ -2,6 +2,3 @@
 Курс backend-разработка на Go. Уровень 1
 
 https://gb.ru/
-
-hello
-
